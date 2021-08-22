@@ -1,7 +1,5 @@
 ### Hello World!! :), I'm Vinit Bhosale - aka [Vinit] 👋
 
-Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/{vinitbhosale}/count.svg)
-
 ## I'm a Developer and a Recent grad
 
 ### Here are some ideas to help you get started:
