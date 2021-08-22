@@ -59,7 +59,7 @@
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
-<img alt="Spring" width="26px" src="https://www.cleanpng.com/png-spring-framework-software-framework-java-applicati-6290527/preview.html">
+<img alt="Spring" width="26px" src="https://banner2.cleanpng.com/20180328/ace/kisspng-spring-framework-representational-state-transfer-j-spring-5abb1a637c6711.3394662515222114275096.jpg">
 </code>](https://spring.io/projects/spring-framework)
 [<code>
 <img alt="Spring Boot" width="26px" src="https://www.pngfind.com/pngs/m/53-535670_spring-framework-logo-spring-boot-hd-png-download.png">
