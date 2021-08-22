@@ -1,6 +1,6 @@
 ### Hello World!! :), I'm Vinit Bhosale - aka [Vinit] 👋
 
-## I'm a Developer and a Recent grad
+## I'm a Developer and a Recent Computer Science graduate
 
 ### Here are some ideas to help you get started:
 
