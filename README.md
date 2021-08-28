@@ -1,4 +1,4 @@
-### Hello World!! :), I'm Vinit Bhosale - aka [Vinit] 👋
+### Hello World!! 😄, I'm Vinit Bhosale - aka [Vinit] 👋
 
 ## I'm a Developer and a Recent Computer Science graduate
 
